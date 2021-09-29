@@ -6,6 +6,6 @@
  [See in your browser](https://willson-alflen.github.io/color-flipper/)
 ***
  
- ![color-flipper-print](https://user-images.githubusercontent.com/87523872/135257258-a04f4c4a-c699-45a1-8650-37057a2499cb.png)
+ ![color-flipper-print](https://user-images.githubusercontent.com/87523872/135257923-7f517b93-4dc2-43c6-a83c-6af3549c4ce8.png)
  
  
